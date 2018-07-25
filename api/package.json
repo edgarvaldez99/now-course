@@ -5,7 +5,7 @@
   "author": "Sergio Daniel Xalambrí <sergiodxa@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon .",
+    "dev": "DB_USER=mgdwajvl DB_PASS=YEofMCvnFhRICFX5XCfnKGD-jPHt2jWn DB_HOST=stampy.db.elephantsql.com DB_NAME=mgdwajvl nodemon .",
     "start": "node ."
   },
   "dependencies": {

@@ -1,0 +1,9 @@
+{
+    "name": "now_curso_bff",
+    "type": "npm",
+    "env": {
+        "NODE_ENV": "production",
+        "BACKEND_API_ENDPOINT": "https://now_curso_api.now.sh/graphql",
+        "BACKEND_WS_ENDPOINT": "wss://now_curso_api.now.sh/subscriptions"
+    }
+}
